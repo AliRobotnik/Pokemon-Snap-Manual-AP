@@ -1,7 +1,0 @@
-Manual_PokemonSnapWndrfl_AliRobotnik:
-    progression_balancing: 50
-    accessibility: items
-    exclude_locations: {'Same Pkmn: Growlithe', 'Same Pkmn: Magikarp', 'Same Pkmn: Dratini', 'Same Pkmn: Cloyster', 'Same Pkmn: Psyduck'} # to remove checks you dont want to have to worry about like 'Same Pkmn: Staryu' Be sure to put location names in single quotes and separate with a comma
-
-game: Manual_PokemonSnapWndrfl_AliRobotnik
-name: AliRobotnik
